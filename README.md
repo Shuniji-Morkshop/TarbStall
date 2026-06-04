@@ -1,7 +1,7 @@
 # TarbStall
 A package manager that install tarballs from scripts available in /packages.
 > [!NOTE]
-> This is a open beta, as we are currently working on it intensively
+> This is a open beta, as we are currently working on it intensively (that was a lie)
 
 ## Features:
 - Install tarballs automatically
